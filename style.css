@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-   --cor-destaque: #fcfaf4;
+   --cor-destaque: #edc514;
    --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #1E2021 44.96%, #1E2022 100%);
 }
 
@@ -47,7 +47,7 @@ h1 {
    gap: 0.625rem;
    align-self: stretch;
    border-radius: 0.625rem;
-   background: #31041e62;
+   background: #df0383;
    font-size: 2rem;
 }
 
@@ -85,4 +85,3 @@ h1 {
    max-height: 50vh;
    overflow: auto;
 }
-
